@@ -1,6 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3F1ZHdqbWpka3dsOGZxeDAwbTllYnl1aWRwMjJvYTR5eTVzZ24waSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TkuE3Jx6D3ybbu3nLe/giphy.gif" width="150"/>
-</div>
+![Header](./header.png)
+
 <div id="badges">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
