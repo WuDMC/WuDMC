@@ -5,7 +5,7 @@
 Hi, my name is Denis but you can also call me *Den*. I work with data and everything related to it as a data engineer. I also enjoy creating projects based on telegram bots. One of such projects you can see at the link below. If you have any questions, feel free to message me on telegram.
 
 ### Check out my projects:
-- [Random coffe bot](https://github.com/WuDMC/data-processing-web-app) - Random coffe bot
+- [Random coffe bot](https://github.com/WuDMC/Random-Coffee-tg-bot/settings) - Random coffe bot
 - [Gdrive saver](https://github.com/WuDMC/data-processing-web-app) - Gdrive saver
 - [Trip adviser](https://github.com/WuDMC/data-processing-web-app) - Trip adviser
 ***
