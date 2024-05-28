@@ -8,14 +8,14 @@ Hi, my name is Denis. I work with data and everything related to it as a data en
 
 ### Check out my projects:
 - [Gdrive saver bot](https://t.me/gdrive_saver_bot) - Web app ([python+flask](https://github.com/WuDMC/data-processing-web-app)) to process media files ( audio converting with **ffmpeg** and photos face detection with **Google Cloud Vision** ) and load to **Google Drive by API**. For interface used simple tg bot ([repo](https://github.com/WuDMC/simple-tg-bot)) <br>
- &nbsp ;&nbsp ; <details>
-                	<summary>Click here to check how bot detects faces in tg</summary>
+                <details>
+                	<summary>_Click here to check how bot detects faces in tg_</summary>
                 	  <img src="https://github.com/WuDMC/WuDMC/assets/65350779/4a11e94f-9c29-4750-8a1c-881597fac733" alt="Gdrive Bot example" width="400">
                 </details>
 
 - [Startpoint APP](https://wudmc.com/startpoint.html) - Web app ([ruby+sinatra](https://github.com/WuDMC/geonames)) is generating routes for travellers via **Geonames API** and **Google GeoCoding**. User interface is made with **Django** framework [repo](https://github.com/WuDMC/wudmc.com).   <br>
- &nbsp ;&nbsp ; <details>
-                	<summary>Click here to see some routes example</summary>
+                <details>
+                	<summary>_Click here to see some routes example_</summary>
                     <img src="https://wudmc.com/static/assets/img/maps.gif" alt="Starpoint app example" width="400">
                 </details>
 - [Random coffe bot](https://github.com/WuDMC/Random-Coffee-tg-bot/settings) - Telegram bot which connect two random people to get a cup of coffee. Bot was made during immigration period in Georgia at hte begining of 2022 to build new connections. **Archived**
