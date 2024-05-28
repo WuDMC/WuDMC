@@ -5,9 +5,13 @@
 Hi, my name is Denis but you can also call me *Den*. I work with data and everything related to it as a data engineer. I also enjoy creating projects based on telegram bots. One of such projects you can see at the link below. If you have any questions, feel free to message me on telegram.
 
 ### Check out my projects:
+- [Gdrive saver bot](https://t.me/gdrive_saver_bot) - Web app ([python+flask](https://github.com/WuDMC/data-processing-web-app)) to process media files ( audio converting with **ffmpeg** and photos face detection with **Google Cloud Vision** ) and load to **Google Drive by API**. For interface used simple tg bot ([repo](https://github.com/WuDMC/simple-tg-bot)) <br>
+  <img src="https://github.com/WuDMC/WuDMC/assets/65350779/4a11e94f-9c29-4750-8a1c-881597fac733" alt="Gdrive Bot example" width="300">
+
+- [Startpoint APP](https://wudmc.com/startpoint.html) - Web app ([ruby+sinatra](https://github.com/WuDMC/geonames)) is generating routes for travellers via **Geonames API** and **Google GeoCoding**. User interface is made with **Django** framework [repo](https://github.com/WuDMC/wudmc.com).   <br>
+  <img src="https://wudmc.com/static/assets/img/maps.gif" alt="Starpoint app example" width="300">
 - [Random coffe bot](https://github.com/WuDMC/Random-Coffee-tg-bot/settings) - Random coffe bot
-- [Gdrive saver](https://github.com/WuDMC/data-processing-web-app) - Gdrive saver
-- [Trip adviser](https://github.com/WuDMC/data-processing-web-app) - Trip adviser
+
 ***
 
 <div id="badges">
