@@ -1,25 +1,29 @@
 ![profile](./header.png)
 
-### **Hi! I'm Denis!**
+### **Hi! I'm Denis!** <div id="badges">
+<a href="https://www.linkedin.com/in/wudmc/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+</div>
 
-Hi, my name is Denis but you can also call me *Den*. I work with data and everything related to it as a data engineer. I also enjoy creating projects based on telegram bots. One of such projects you can see at the link below. If you have any questions, feel free to message me on telegram.
+Hi, my name is Denis. I work with data and everything related to it as a data engineer. I also enjoy creating projects based on telegram bots. Few such projects you can see at the links below. If you have any questions, feel free to message me on [telegram](https://t.me/wudmc).
 
 ### Check out my projects:
 - [Gdrive saver bot](https://t.me/gdrive_saver_bot) - Web app ([python+flask](https://github.com/WuDMC/data-processing-web-app)) to process media files ( audio converting with **ffmpeg** and photos face detection with **Google Cloud Vision** ) and load to **Google Drive by API**. For interface used simple tg bot ([repo](https://github.com/WuDMC/simple-tg-bot)) <br>
-  <img src="https://github.com/WuDMC/WuDMC/assets/65350779/4a11e94f-9c29-4750-8a1c-881597fac733" alt="Gdrive Bot example" width="300">
+ &nbsp ;&nbsp ; <details>
+                	<summary>Click here to check how bot detects faces in tg</summary>
+                	  <img src="https://github.com/WuDMC/WuDMC/assets/65350779/4a11e94f-9c29-4750-8a1c-881597fac733" alt="Gdrive Bot example" width="400">
+                </details>
 
 - [Startpoint APP](https://wudmc.com/startpoint.html) - Web app ([ruby+sinatra](https://github.com/WuDMC/geonames)) is generating routes for travellers via **Geonames API** and **Google GeoCoding**. User interface is made with **Django** framework [repo](https://github.com/WuDMC/wudmc.com).   <br>
-  <img src="https://wudmc.com/static/assets/img/maps.gif" alt="Starpoint app example" width="300">
-- [Random coffe bot](https://github.com/WuDMC/Random-Coffee-tg-bot/settings) - Random coffe bot
+ &nbsp ;&nbsp ; <details>
+                	<summary>Click here to see some routes example</summary>
+                    <img src="https://wudmc.com/static/assets/img/maps.gif" alt="Starpoint app example" width="400">
+                </details>
+- [Random coffe bot](https://github.com/WuDMC/Random-Coffee-tg-bot/settings) - Telegram bot which connect two random people to get a cup of coffee. Bot was made during immigration period in Georgia at hte begining of 2022 to build new connections. **Archived**
 
 ***
 
-<div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>
 
 ### :hammer_and_wrench: Languages :
-***
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-plain.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
@@ -41,28 +45,8 @@ Hi, my name is Denis but you can also call me *Den*. I work with data and everyt
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apacheairflow/apacheairflow-original.svg" title="Airflow" alt="Airflow" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
-
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WuDMC&theme=dark&background=000000&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=WuDMC&theme=dark&background=000000&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<!--
-**WuDMC/WuDMC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WuDMC&theme=dark&background=000000&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://git.io/streak-stats)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
