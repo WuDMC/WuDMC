@@ -53,7 +53,7 @@
     </details>
 
 - **Startpoint APP**
-  - **Description:** A web app generating travel routes from any place you are. If you don't know where to go during your holidays, try it.
+  - **Description:** A web app generates unique travel routes for adventurous explorers like me. If you don't know where to go during your holidays, try it.
   - **Stack:** Python, Django, Ruby, Sinatra, JS, Google Geocoding, Geonames API.
   - **App Link:** [Startpoint APP](https://wudmc.com/startpoint.html)
   - **Repositories:** [Geonames microservice](https://github.com/WuDMC/geonames) | [Django website](https://github.com/WuDMC/wudmc.com)
