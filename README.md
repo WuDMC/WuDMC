@@ -7,16 +7,10 @@
 🚀 Data Engineer specializing in building data pipelines for BI analytics! I transform data from any sources—databases/web scraping/parsing messengers/APIs—into valuable insights ✨📊 
 
 **Is your business ready to unlock data's potential?** Reach out to me on [Telegram](https://t.me/wudmc)! Together, we'll build scalable, cost-effective pipelines on Google Cloud's free tier, ensuring low costs and high-impact insights.
-  
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/wudmc/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-  
+    
 ---
 
-### 💼 My non-NDA projects 
+### 💼 Check out my non-NDA projects 
 
 - **Telegram Jobs Parser**
   - **Description:** Parsing ~400 Telegram jobs channels to find the best 😎 offers: ELT pipeline loads the data into GCS => stages in BQ => DataMarts in BQ => simple Looker BI dashboard and AD HOCs to filter the results.
