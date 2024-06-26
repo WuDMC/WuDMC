@@ -1,7 +1,7 @@
 ![Profile Header](./header.png)
 
 <div align="center">
-  <h1>Hi! I'm Denis!</h1>
+  <h1>Hi, I'm Denis!</h1>
 </div>
 
 🚀 Data Engineer specializing in building data pipelines for BI analytics! I transform data from any sources—databases/web scraping/parsing messengers/APIs—into valuable insights ✨📊 
