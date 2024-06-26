@@ -4,9 +4,9 @@
   <h1>Hi! I'm Denis!</h1>
 </div>
 
-🚀 Data Engineer specializing in building data pipelines for BI analytics! I transform data from diverse sources—whether web scraping, messengers or APIs—into valuable insights. ✨📊 
+🚀 Data Engineer specializing in building data pipelines for BI analytics! I transform data from any sources—databases/web scraping/parsing messengers/APIs—into valuable insights ✨📊 
 
-Is your startup ready to unlock data's potential? Reach me out on [Telegram](https://t.me/wudmc) ! Together, we'll build scalable, cost-effective pipelines on Google Cloud's free tier, ensuring low costs and high-impact insights.
+**Is your startup ready to unlock data's potential?** Reach me out on [Telegram](https://t.me/wudmc) ! Together, we'll build scalable, cost-effective pipelines on Google Cloud's free tier, ensuring low costs and high-impact insights.
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/wudmc/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,15 +17,31 @@ Is your startup ready to unlock data's potential? Reach me out on [Telegram](htt
 
 ### 💼 My non-NDA projects 
 - **Telegram Jobs Parser**
-  - **Description:** An ELT pipeline using Airflow, Google Cloud Storage, Google BigQuery, and Pyrogram.
+  - **Description:** Parsing ~400 telegram jobs channels to find the best offers. ELT pipeline load the data into GCS => stages in BQ => DataMarts in BQ =>  simple Looker BI dashboard. 
+  - **Sack:** Python 3, Airflow 2, Google Cloud Storage, Google BigQuery, Looker, Pyrogram.
+  - **Status:** Active
+  - **Repositories:**
   - **Looker Dashboard:** [View Dashboard](https://lookerstudio.google.com/reporting/87cf00b3-86c9-4203-865b-54320c762bb6)
-  <details>
-    <summary>Click here to view the dashboard</summary>
-    <img src="https://github.com/WuDMC/WuDMC/assets/65350779/42c84cdb-624e-4e3a-8c4c-940067c95c72" alt="Dashboard for Telegram Jobs Parser" width="400">
-  </details>
+  - **What`s next:**   
+    <details>
+      <summary>Todo list:</summary>
+      - Terraform and run project with one button
+      - Simple ML model to classify vacany from CHATS ( not only dialogs like now )
+      - More useful dashboards
+      - Auto extraction to google sheets 
+      - Deduplication 
+      - Advanced ML  model to parse parametrs of vacancy like region, salary
+    </details>
+  - **Screenshots:**   
+    <details>
+      <summary>Click here to view the dashboard</summary>
+      <img src="https://github.com/WuDMC/WuDMC/assets/65350779/42c84cdb-624e-4e3a-8c4c-940067c95c72" alt="Dashboard for Telegram Jobs Parser" width="400">
+    </details>
+
+
 
 - **Gdrive Saver Bot**
-  - **Description:** A web app using Python and Flask to process media files (audio conversion with FFmpeg, face detection with Google Cloud Vision) and load them to Google Drive via API. The interface is a simple Telegram bot.
+  - **Description:**  A web app using Python and Flask to process media files (audio conversion with FFmpeg, face detection with Google Cloud Vision) and load them to Google Drive via API. The interface is a simple Telegram bot.
   - **Bot Link:** [Gdrive Saver Bot](https://t.me/gdrive_saver_bot)
   - **Repositories:** [Web App](https://github.com/WuDMC/data-processing-web-app) | [Telegram Bot](https://github.com/WuDMC/simple-tg-bot)
   <details>
