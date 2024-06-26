@@ -6,7 +6,7 @@
 
 🚀 Data Engineer specializing in building data pipelines for BI analytics! I transform data from any sources—databases/web scraping/parsing messengers/APIs—into valuable insights ✨📊 
 
-**Is your startup ready to unlock data's potential?** Reach out to me on [Telegram](https://t.me/wudmc)! Together, we'll build scalable, cost-effective pipelines on Google Cloud's free tier, ensuring low costs and high-impact insights.
+**Is your business ready to unlock data's potential?** Reach out to me on [Telegram](https://t.me/wudmc)! Together, we'll build scalable, cost-effective pipelines on Google Cloud's free tier, ensuring low costs and high-impact insights.
   
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/wudmc/">
