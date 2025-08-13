@@ -4,13 +4,16 @@
   <h1>Hi, I'm Denis!</h1>
 </div>
 
-🚀 Data Engineer specializing in building data pipelines for BI analytics! I transform data from any sources—databases/web scraping/parsing messengers/APIs—into valuable insights ✨📊 
-
-**Is your business ready to unlock data's potential?** Reach out to me on [Telegram](https://t.me/wudmc)! Together, we'll build scalable, cost-effective pipelines on Google Cloud's free tier, ensuring low costs and high-impact insights.
-    
+🚀 Data Engineer specializing in **data warehouse design** (Kimball & modern approaches) in Google Cloud, with end-to-end **DataOps** practices. Skilled in **data ingestion from any source** — databases, APIs, web scraping, and streaming — along with infrastructure as code, automated testing, and CI/CD deployment pipelines to deliver clean, trusted, and analytics-ready data.
+ 
 ---
 
 ### 💼 Check out my non-NDA projects 
+
+- **Dataform Kimball DWH**
+  - **Description:** Example project for building a Kimball-style data warehouse in Google Cloud using Dataform, featuring separate dev/prod environments, automated tests, and JavaScript for reusable metric definitions and dynamic model generation.
+  - **Stack:** Dataform, BigQuery, Google Cloud Storage, JavaScript, SQL.
+  - **Repository:** [dataform-kimball-dwh](https://github.com/WuDMC/dataform-kimball-dwh)
 
 - **Telegram Jobs Parser**
   - **Description:** Parsing ~400 Telegram jobs channels to find the best 😎 offers: ELT pipeline loads the data into GCS => stages in BQ => DataMarts in BQ => simple Looker BI dashboard and AD HOCs to filter the results.
@@ -23,7 +26,7 @@
       <summary>📊 Click here to view dashboard screenshot</summary>
       <img src="https://github.com/WuDMC/WuDMC/assets/65350779/42c84cdb-624e-4e3a-8c4c-940067c95c72" alt="Dashboard for Telegram Jobs Parser" width="800">
     </details>
-    
+      <!--
     <details>
       <summary>📑 Todo list:</summary>
       <ul>
@@ -36,7 +39,7 @@
         <li>Advanced ML model to parse vacancy parameters like region, salary</li>
       </ul>
     </details>
-
+ -->
 - **Media Processor Bot**
   - **Description:** Experiments with Computer Vision and FFmpeg: A web app (in Cloud Run container) processes media files (audio conversion with FFmpeg, face detection with Google Cloud Vision) and loads them to Google Drive via API. The interface is a simple Telegram bot. 😊 Full CI/CD workflow from scratch.
   - **Stack:** Python, Flask, Google Cloud Vision, Cloud Run & Cloud Build, FFmpeg, Docker, GitHub Actions.
