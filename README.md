@@ -39,7 +39,7 @@
         <li>Advanced ML model to parse vacancy parameters like region, salary</li>
       </ul>
     </details>
- -->
+   -->
 - **Media Processor Bot**
   - **Description:** Experiments with Computer Vision and FFmpeg: A web app (in Cloud Run container) processes media files (audio conversion with FFmpeg, face detection with Google Cloud Vision) and loads them to Google Drive via API. The interface is a simple Telegram bot. 😊 Full CI/CD workflow from scratch.
   - **Stack:** Python, Flask, Google Cloud Vision, Cloud Run & Cloud Build, FFmpeg, Docker, GitHub Actions.
