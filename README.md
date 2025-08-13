@@ -16,7 +16,9 @@
   - **Description:** Parsing ~400 Telegram jobs channels to find the best 😎 offers: ELT pipeline loads the data into GCS => stages in BQ => DataMarts in BQ => simple Looker BI dashboard and AD HOCs to filter the results.
   - **Stack:** Python, Airflow, Google Cloud Storage, Google BigQuery, Looker.
   - **Repositories:** [ELT Airflow DAGs](https://github.com/WuDMC/ELT_DAGs_for_tg_jobs_parser) | [Telegram jobs parser module](https://github.com/WuDMC/tg_jobs_parser_module)
+  <!--
   - **Looker Dashboard:** [View Dashboard](https://lookerstudio.google.com/reporting/87cf00b3-86c9-4203-865b-54320c762bb6)
+  -->
     <details>
       <summary>📊 Click here to view dashboard screenshot</summary>
       <img src="https://github.com/WuDMC/WuDMC/assets/65350779/42c84cdb-624e-4e3a-8c4c-940067c95c72" alt="Dashboard for Telegram Jobs Parser" width="800">
